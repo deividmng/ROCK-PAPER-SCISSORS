@@ -1,0 +1,30 @@
+.container {
+    width: 95%;
+    max-width: 120rem;
+    margin: 0 auto;
+
+    text-align: center;
+    align-items: center;
+
+    
+}
+
+
+.parrafo {
+    margin-top: 30px;
+    font-size: bold;
+    font-size: 33px;
+}
+
+
+
+.toastify {
+    width: 100%; 
+    text-align: center;
+    font-size: 18px; /* Ajusta el tamaño de la fuente según sea necesario */
+}
+
+.toastify.toastify-center {
+   
+    transform: translateX(-50%);
+}

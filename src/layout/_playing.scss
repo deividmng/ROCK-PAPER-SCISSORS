@@ -1,0 +1,19 @@
+.imgchossed {
+   max-width: 133px;
+}
+
+
+.show-result {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+
+     
+    img {
+        max-width: 120px;
+      
+        border-radius: 10px;
+        border: 2px solid black;
+    }
+}
